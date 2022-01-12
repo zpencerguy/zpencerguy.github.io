@@ -1,4 +1,4 @@
-baseURL = "https://zpencerguy.github.io"
+baseURL = "https://zpencerguy.github.io/public"
 languageCode = "en-us"
 title = "Spencer Guy"
 theme = "cactus"
