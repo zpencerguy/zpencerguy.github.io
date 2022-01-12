@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zpencerguy.github.io/about/</loc>
+    <loc>https://zpencerguy.github.io/public/about/</loc>
     <lastmod>2022-01-12T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>https://zpencerguy.github.io/posts/</loc>
+    <loc>https://zpencerguy.github.io/public/posts/</loc>
     <lastmod>2022-01-12T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>https://zpencerguy.github.io/crypto/</loc>
+    <loc>https://zpencerguy.github.io/public/crypto/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://zpencerguy.github.io/categories/</loc>
+    <loc>https://zpencerguy.github.io/public/categories/</loc>
   </url><url>
-    <loc>https://zpencerguy.github.io/</loc>
+    <loc>https://zpencerguy.github.io/public/</loc>
   </url><url>
-    <loc>https://zpencerguy.github.io/tags/</loc>
+    <loc>https://zpencerguy.github.io/public/tags/</loc>
   </url>
 </urlset>
