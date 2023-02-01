@@ -1,6 +1,11 @@
 {
     "list": [
       {
+        "name":"Superforecaster",
+        "url":"https://superforecaster.xyz/",
+        "desc":"Web app to make and track predictions of NFT price movements."
+      },
+      {
         "name":"Mutant Money Boys",
         "url":"https://mutantmoneyboys.holaplex.com/",
         "desc":"Algorithmically generated images I created with Tensorflow."
