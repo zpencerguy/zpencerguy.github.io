@@ -6,6 +6,11 @@
         "desc":"Web app to make and track predictions of NFT price movements."
       },
       {
+        "name":"DEX Analytics",
+        "url":"https://dex-dash-it2dnsfura-uc.a.run.app/",
+        "desc":"Dashboard to look at token and liquidity pools from different decentralized exchanges."
+      },
+      {
         "name":"Mutant Money Boys",
         "url":"https://mutantmoneyboys.holaplex.com/",
         "desc":"Algorithmically generated images I created with Tensorflow."
@@ -14,11 +19,6 @@
         "name":"GANdas",
         "url":"https://gandas.holaplex.com/",
         "desc":"My first generative art project using a Deep Convolutional Generative Adversarial Network."
-      },
-      {
-        "name":"DEX Analytics",
-        "url":"https://dex-dash-it2dnsfura-uc.a.run.app/",
-        "desc":"Dashboard to look at token and liquidity pools from different decentralized exchanges."
       },
       {
         "name":"Pandas Analysis",
